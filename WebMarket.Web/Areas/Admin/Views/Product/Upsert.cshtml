@@ -1,0 +1,163 @@
+﻿@using WebMarket.Models.ViewModels;
+@model ProductViewModel
+@{
+    ViewData["Title"] = "Upsert";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Product.ImageUrl" hidden />
+    <input asp-for="Product.Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>@(Model.Product.Id != 0 ? "ویرایش" : "ایجاد")محصول  </h2>
+            <hr />
+        </div>
+
+        <div class="col mb-3">
+            <label asp-for="Product.Title"></label>
+            <input asp-for="Product.Title" class="form-control" />
+            <span asp-validation-for="Product.Title" class="text-danger"></span>
+        </div>
+        <div class="col mb-3">
+            <label asp-for="Product.Description"></label>
+            <textarea rows="10" asp-for="Product.Description" class="form-control"></textarea>
+            <span asp-validation-for="Product.Description" class="text-danger"></span>
+        </div>
+        <div class="col mb-3">
+            <label asp-for="Product.ShortDescription"></label>
+            <textarea rows="5" asp-for="Product.ShortDescription" class="form-control"></textarea>
+            <span asp-validation-for="Product.ShortDescription" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-6 mb-3">
+                <label asp-for="Product.ISBN"></label>
+                <input asp-for="Product.ISBN" class="form-control" />
+                <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label asp-for="Product.Author"></label>
+                <input asp-for="Product.Author" class="form-control" />
+                <span asp-validation-for="Product.Author" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6 mb-3">
+                <label asp-for="Product.ListPrice"></label>
+                <input asp-for="Product.ListPrice" class="form-control" />
+                <span asp-validation-for="Product.ListPrice" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label asp-for="Product.Price"></label>
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 mb-3">
+                <label asp-for="Product.Price50"></label>
+                <input asp-for="Product.Price50" class="form-control" />
+                <span asp-validation-for="Product.Price50" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label asp-for="Product.Price100"></label>
+                <input asp-for="Product.Price100" class="form-control" />
+                <span asp-validation-for="Product.Price100" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col mb-3">
+            <label asp-for="Product.ImageUrl"></label>
+            <input id="uploadBox" type="file" name="file" class="form-control" />
+        </div>
+        <div class="row">
+            <div class="col-6 mb-3">
+                <label asp-for="Product.ImageTitle"></label>
+                <input asp-for="Product.ImageTitle" class="form-control" />
+                <span asp-validation-for="Product.ImageTitle" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label asp-for="Product.ImageAlt"></label>
+                <input asp-for="Product.ImageAlt" class="form-control" />
+                <span asp-validation-for="Product.ImageAlt" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6 mb-3">
+                <label asp-for="Product.CategoryId"></label>
+                <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                    <option disabled selected>--انتخاب دسته--</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label asp-for="Product.CoverTypeId"></label>
+                <select asp-for="Product.CoverTypeId" asp-items="@Model.CoverTypeList" class="form-select">
+                    <option disabled selected>--انتخاب کاور تایپ--</option>
+                </select>
+                <span asp-validation-for="Product.CoverTypeId" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-12">
+            @if(Model.Product.Id != 0)
+            {
+                <button type="submit" class="btn btn-primary" style="width:150px"> 
+                    ویرایش محصول
+                </button>
+            }
+            else
+            {
+                <button type="submit" onclick="return ValidationInput()" class="btn btn-primary" style="width:150px">
+                    ایجاد محصول
+                </button>
+            }
+            
+            <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-secondary" style="width:250px">
+                بازگشت به لیست محصولات
+            </a>
+        </div>
+        
+        <div class="col mb-3">
+            <label asp-for="Product.ImageAlt"></label>
+            @*  <input asp-for="ImageAlt" class="form-control" />
+            <span asp-validation-for="ImageAlt" class="text-danger"></span>*@
+        </div>
+        <div class="col mb-3">
+            <label asp-for="Product.ImageAlt"></label>
+            @*<input asp-for="ImageAlt" class="form-control" />
+            <span asp-validation-for="ImageAlt" class="text-danger"></span>*@
+        </div>
+        <div class="col mb-3">
+            <label asp-for="Product.ImageAlt"></label>
+            @*<input asp-for="ImageAlt" class="form-control" />
+            <span asp-validation-for="ImageAlt" class="text-danger"></span>*@
+        </div>
+
+    </div>
+</form>
+
+@section Scripts{
+    @{
+<partial name="_ValidationScriptsPartial" />
+    }
+
+    <script>
+
+        function ValidateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'اووهه...',
+                    text: 'لطفا تصویری را وارد نمایید!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}
+

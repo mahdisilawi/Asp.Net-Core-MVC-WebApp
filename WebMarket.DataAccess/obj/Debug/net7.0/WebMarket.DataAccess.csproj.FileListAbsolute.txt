@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.DataAccess.deps.json
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.DataAccess.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.DataAccess.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\refint\WebMarket.DataAccess.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\ref\WebMarket.DataAccess.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.DataAccess.runtimeconfig.json
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.Models.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\bin\Debug\net7.0\WebMarket.Models.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.DataAccess\obj\Debug\net7.0\WebMarket.DataAccess.csproj.CopyComplete

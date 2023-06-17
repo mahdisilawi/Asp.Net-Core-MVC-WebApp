@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";
+}
+
+
+@foreach (var items in Model)
+{
+    <div class="row">
+        <div class="col-4 mb-4">
+            <div class="card">
+                <img class="card-img-top" src="~/images/products/@items.ImageUrl" alt="@items.ImageAlt" title="@items.ImageTitle">
+                <div class="card-body">
+                    <h5 class="card-title text-center"></h5>
+                    <hr />
+                    <p class="card-text">نام نویسنده: @items.Author <b></b><br />دسته بندی: <b>@items.Category.Name</b></p>
+                    <small class="text-dark">@items.ShortDescription</small>
+                </div>
+                <div class="card-footer">
+                    <b class="text-dark">@items.Price.ToString("#,000") تومان</b>
+                    <a asp-area="Customer" asp-controller="Home" asp-action="ProductDetails" asp-route-productId="@items.Id" class="btn btn-primary float-end">نمایش جزئیات</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

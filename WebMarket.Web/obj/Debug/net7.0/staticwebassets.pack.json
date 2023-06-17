@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebMarket.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebMarket.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\css\\AdminCustomStyles.css",
+      "PackagePath": "staticwebassets\\css\\AdminCustomStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\fontiran.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontiran.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot.zip",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot.zip"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\302997ee-9139-4b2f-abf3-0734fed4c314.png",
+      "PackagePath": "staticwebassets\\images\\products\\302997ee-9139-4b2f-abf3-0734fed4c314.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\7b5c036a-88e8-4c14-bee0-d4c80c116252.png",
+      "PackagePath": "staticwebassets\\images\\products\\7b5c036a-88e8-4c14-bee0-d4c80c116252.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\8ff9ccb8-0d23-42cf-8943-dc2d156ea277.png",
+      "PackagePath": "staticwebassets\\images\\products\\8ff9ccb8-0d23-42cf-8943-dc2d156ea277.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\d5989730-be9e-4f28-98e4-9b209f13382a.png",
+      "PackagePath": "staticwebassets\\images\\products\\d5989730-be9e-4f28-98e4-9b209f13382a.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebMarket.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebMarket.Web.props",
+      "PackagePath": "build\\WebMarket.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebMarket.Web.props",
+      "PackagePath": "buildMultiTargeting\\WebMarket.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebMarket.Web.props",
+      "PackagePath": "buildTransitive\\WebMarket.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

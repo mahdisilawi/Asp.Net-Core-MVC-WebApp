@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\bin\Debug\net7.0\WebMarket.Models.deps.json
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\bin\Debug\net7.0\WebMarket.Models.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\bin\Debug\net7.0\WebMarket.Models.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\refint\WebMarket.Models.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\WebMarket.Models.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Models\obj\Debug\net7.0\ref\WebMarket.Models.dll

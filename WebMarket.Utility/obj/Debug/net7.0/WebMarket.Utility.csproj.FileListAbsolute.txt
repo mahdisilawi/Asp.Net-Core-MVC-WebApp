@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\bin\Debug\net7.0\WebMarket.Utility.deps.json
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\bin\Debug\net7.0\WebMarket.Utility.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\bin\Debug\net7.0\WebMarket.Utility.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\refint\WebMarket.Utility.dll
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\WebMarket.Utility.pdb
+C:\Users\Admin\source\repos\WebMarket\WebMarket.Utility\obj\Debug\net7.0\ref\WebMarket.Utility.dll

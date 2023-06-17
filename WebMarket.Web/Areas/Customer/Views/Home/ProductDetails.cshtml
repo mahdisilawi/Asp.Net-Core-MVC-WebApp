@@ -1,0 +1,80 @@
+﻿
+@model ShoppingCart
+@{
+    ViewData["Title"] = "ProductDetails";
+    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card">
+    <div class="row">
+        <aside class="col-4 border-right">
+            <article class="gallery-wrap">
+                <div class="img-big-wrap">
+                    <div class="text-center mt-4">
+                        <a href="#">
+                            <img class="img-thumbnail" src="~/images/products/@Model.Product.ImageUrl" alt="@Model.Product.ImageAlt" title="@Model.Product.ImageTitle">
+                        </a>
+                    </div>
+                </div>
+            </article>
+        </aside>
+        <aside class="col-8">
+            <article class="card-body p-5">
+                <form method="post">
+                    <input hidden asp-for="ProductId" />
+                    <div class="text-center">
+                        <h2 class="title mb-3"><<@Model.Product.Title>> </h2>
+                    </div>
+                    <hr />
+                    <div class="price-detail-wrap">
+                        <div class="col-3">
+                            <h6 class="text-muted pb-2"> <strike>@Model.Product.ListPrice.ToString("#,000") تومان</strike></h6>
+                        </div>
+                        <div class="col-9 text-left">
+                            <span class="price h6 text-danger">
+                                <span class="currency">همین الان با قیمت استثنایی</span>&nbsp;<u class="num">@Model.Product.Price.ToString("#,000")</u>&nbsp;<span class="currency">تومان بخرید <span style='font-size:17px;'>&#128293;</span></span>
+                            </span>
+                        </div>
+
+                    </div>
+                    <br />
+                    <dl class="item-property">
+                        <dt>توضیحات</dt>
+                        <dd>
+                            <small>
+                                @Model.Product.Description
+                            </small>
+                        </dd>
+                    </dl>
+                    <div class="text-warning">
+                        <dl class="param param-feature">
+                            <dt>شماره شابک: <b class="text-bold text-dark">@Model.Product.ISBN</b></dt>
+                        </dl>
+                        <dl class="param param-feature">
+                            <dt>نام نویسنده: <b class="text-bold text-dark">@Model.Product.Author</b></dt>
+                        </dl>
+                        <dl class="param param-feature">
+                            <dt>آخرین بروزرسانی: <b class="text-bold text-dark">@Model.Product.CreateDate.ToShortDateString()</b></dt>
+                        </dl>
+                        <dl class="param param-feature">
+                            <dt>قیمت +50 عدد: <b class="text-bold text-danger">@Model.Product.Price50.ToString("#,000") تومان</b></dt>
+                        </dl>
+                        <dl class="param param-feature">
+                            <dt>قیمت +100 عدد: <b class="text-bold text-danger">@Model.Product.Price100.ToString("#,000") تومان</b></dt>
+                        </dl>
+                        <hr>
+                    </div>
+                    <div class="row pl-2">
+                        <div class="col-4 text-warning"><h6>چه تعدادی نیاز داری؟</h6></div>
+                        <div class="col-8"><input asp-for="Count" class="form-control" /></div>
+                    </div>
+                    <br />
+                    <div class="text-left">
+                        <button type="submit" class="btn btn-lg btn-primary text-uppercase"> خرید کتاب </button>
+                    </div>
+                </form>
+            </article>
+        </aside>
+    </div>
+</div>

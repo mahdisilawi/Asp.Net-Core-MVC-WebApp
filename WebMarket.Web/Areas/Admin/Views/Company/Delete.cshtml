@@ -1,0 +1,39 @@
+﻿@model Company
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<form method="post" asp-action="DeletePost">
+    <input asp-for="Id" type="hidden" />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>حذف کمپانی </h2>
+            <hr />
+        </div>
+        
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" disabled class="form-control" />    
+        </div>
+        <div class="mb-3">
+            <label asp-for="PhoneNumber"></label>
+            <input asp-for="PhoneNumber" disabled class="form-control" />          
+        </div>
+        <div class="mb-3">
+            <label asp-for="StreetAddress"></label>
+            <input asp-for="StreetAddress" disabled class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="City"></label>
+            <input asp-for="City" disabled class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-danger" style="width:150px">
+            حذف کمپانی
+        </button>
+        <a asp-controller="Company" asp-action="Index" class="btn btn-secondary" style="width:200px">
+            بازگشت به لیست
+        </a>
+    </div>
+</form>
+
